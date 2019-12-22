@@ -51,3 +51,5 @@ Example command line for building PocketMine-MP
 php -dphar.readonly=0 path/to/ConsoleScript.php --make path/to/PocketMine-MP/src,path/to/PocketMine-MP/vendor --relative path/to/PocketMine-MP --entry path/to/PocketMine-MP/src/pocketmine/PocketMine.php --out path/to/put/your/PocketMine-MP.phar
 ```
 **IMPORTANT - Don't forget to include the `vendor` directory when building PocketMine-MP!**
+
+Phar download:
